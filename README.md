@@ -1,157 +1,120 @@
-# Visily AI
+# Visnly AI - The Invisible Desktop AI Tutor
 
-> **AI-powered UI design software** — Turn ideas into interactive prototypes in minutes, no design skills required.
+**The simple, efficient, and undetectable way to ace exams and finish assignments.**
 
----
+Visnly provides **real-time answers**, **study guides**, and **transcription** through an invisible overlay that works seamlessly on your desktop.
 
-## Table of Contents
+## ✨ Key Features
 
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [AI Capabilities](#ai-capabilities)
-- [Pricing](#pricing)
-- [Getting Started](#getting-started)
-- [Use Cases](#use-cases)
-- [Comparison](#comparison)
-- [Reviews & Ratings](#reviews--ratings)
-- [Trusted By](#trusted-by)
-- [License](#license)
+### The Stealth Overlay
+- **Invisible AI Assistance**: Floating overlay that reads what's behind it — no copying, no tab switching.
+- **Smart Mode**: Quick answers, definitions, and simple explanations.
+- **Brilliant Mode**: Complex math, multi-step reasoning, and detailed analysis.
+- **Chat with Screen**: Ask follow-up questions about what you're looking at.
+- **Stealth Mode**: Hide instantly with a hotkey.
+- **Multi-Image Context** & **Auto-Capture**: Perfect for multi-part questions and automatic scanning.
 
----
+### The Study Hub
+- Turn PDFs, YouTube links, text, or transcripts into:
+  - Summaries
+  - Flashcards
+  - Quizzes
+  - Key Terms
+  - Full Study Guides
+  - Test Prep
 
-## Overview
+### Live Transcription
+- Real-time transcription of lectures, meetings, podcasts, YouTube, and calls.
+- Chat with your transcript for summaries, insights, and key points.
+- Supports mic, system audio, or both.
 
-**Visily** is a browser-based, AI-powered UI design platform built for **non-designers** — product managers, founders, developers, business analysts, and anyone with an idea who wants to visualize it quickly. It bridges the gap between raw concepts and polished, interactive prototypes without requiring weeks of design training.
+## 🛡️ Stealth Technology
+**99% Undetectable** — Tested against major proctoring systems.
 
-Unlike traditional design tools that start with a blank canvas, Visily uses artificial intelligence to generate structured, editable layouts from simple inputs like text descriptions, hand-drawn sketches, screenshots, or flowcharts. Teams can ideate, wireframe, prototype, and collaborate — all in one place.
+**Works with:**
+- Honorlock
+- Proctorio
+- ProctorU
+- McGraw Hill Connect
+- Zoom, Teams, WebEx, Discord, Slack, and more
 
-> Visily is trusted by teams at **Amazon, LinkedIn, Microsoft, Walmart, Infosys, Udemy, Accenture, Niantic, and Verizon**.
+**Not supported:** Pearson VUE or Respondus LockDown Browser.
 
----
+> *Native Windows & macOS app. Unlike browser extensions, proctors see nothing.*
 
-## Key Features
+**Not affiliated with or endorsed by any testing or proctoring provider.**
 
-| Feature | Description |
-|---------|-------------|
-| **Wireframing & Prototyping** | Create low-fi wireframes and high-fi mockups on the same board with a single toggle. Connect screens with transitions to build clickable prototypes. |
-| **Drag & Drop Builder** | Intuitive canvas with smart guides, alignment tools, and pre-built components — no design experience needed. |
-| **Real-Time Collaboration** | Co-edit with your team in real time, leave comments, share boards via link, and present prototypes with follower mode. |
-| **1,500+ Templates** | Extensive library of pre-built screens, layouts, diagrams, and flows organized by industry and use case. |
-| **Smart Components** | Reusable UI elements that mimic real app interactions for more authentic prototypes. |
-| **Diagramming Tools** | Built-in flowcharts, sitemaps, ER diagrams, use case diagrams, and class diagrams — no separate tool needed. |
-| **CSS Inspection & Code Export** *(Pro+)* | Hand off designs to developers with generated CSS, React, Vue, and HTML code. |
-| **Figma Export** *(Pro+)* | Seamlessly export designs to Figma for final polish and production-ready output. |
-| **Theme Generation** | Extract color palettes and typography from any website URL or image, then apply consistently across your project. |
+## 🎯 Proven Results
+AI achieved top scores on official tests:
+- **1580 SAT**
+- **34 ACT**
+- **178 LSAT**
+- **524 MCAT**
+- **338 GRE**
 
----
+*(using Brilliant mode)*
 
-## AI Capabilities
+## 💬 What Students Are Saying
 
-Visily's AI engine is the core of the platform, handling the repetitive, structural parts of design so humans can focus on strategy and creativity.
+> "Used Visnly through Honorlock for my Calc final. The overlay never showed on screen recording. Passed with a B+."  
+> — Tyler M., Penn State
 
-### 📝 Text to Design
-Describe any screen in plain language (e.g., *"user profile page, dark theme, with avatar, name, bio, and settings menu"*) and Visily generates a fully editable, structured layout.
+> "Proctorio flagged nothing all semester. Ran the overlay on three proctored exams — zero issues."  
+> — Jasmine K., Nursing
 
-### 📸 Screenshot to Design
-Upload a screenshot of any app, website, or competitor product. Visily's AI converts it into editable wireframes or high-fidelity mockups — perfect for redesigns or competitive analysis.
+> "Connect disabled copy/paste but Visnly reads the screen. SmartBook assignments are actually doable now."  
+> — Chris D., ASU
 
-### ✏️ Sketch to Design
-Snap a photo of a hand-drawn wireframe on a whiteboard or paper. Visily transforms it into clean, digital designs you can iterate on immediately.
+*(Over 3,000 students used Visnly this week — average 5-star rating)*
 
-### 📊 Diagram to Design
-Convert flowcharts, user flows, and process diagrams into full UI screen layouts automatically.
+## 🚀 Getting Started
 
-### 🎨 Magic Themes
-Generate cohesive color schemes and typography, or extract a theme from any URL or image. Apply it across your entire project with one click.
+1. Download Visnly for your platform:
+   https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ
 
-### 🖼️ Magic Images
-Generate custom visuals that match your project's aesthetic directly within the tool.
+2. Create a free account and get **5 free uses** instantly (no card needed).
 
-### 🧠 Smart Design Assistant
-An AI-powered helper that spots color issues, icon mismatches, and alignment problems — keeping your designs professional and consistent.
+3. Launch the app and position the overlay.
 
-### 📋 Structured Data Fill
-Auto-populate your designs with realistic placeholder content (names, emails, dates, currency) so prototypes feel like real products.
+4. Use hotkeys for instant analysis or switch to Stealth Mode.
 
----
+## 💰 Pricing
+- **No subscriptions** — Pay-per-use model.
+- Usage packs that **never expire**.
+- Smart mode: 0.5 uses
+- Brilliant mode: 1 use
 
-## Pricing
+[Explore Pricing](https://visnly.com/pricing)
 
-| Plan | Price | AI Credits/Month | Template Credits | Boards | Best For |
-|------|-------|-----------------|-----------------|--------|----------|
-| **Starter** | Free | 300/workspace | 150/workspace | 2 editable | Solo exploration, quick demos |
-| **Pro** | $11/editor/mo (annual) or $14/mo (monthly) | 3,000/editor | 8,000/editor | Unlimited | Active product teams, startups |
-| **Business** | $29/editor/mo (annual only) | 10,000/editor | Unlimited | Unlimited | Larger teams, priority support |
-| **Enterprise** | Custom | Custom | Unlimited | Unlimited | Organizations with strict security needs |
+## 📚 Resources
+- [Proctoring Guides][(https://visnly.com/guides](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Honorlock, Proctorio, etc.)
+- [AI Study Helpers]([https://visnly.com/solutions](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ))
+- [Subject-Specific Tutors]([https://visnly.com/solutions](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Calculus, Organic Chem, Nursing, etc.)
+- [Alternatives]([https://visnly.com/alternatives](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Chegg, Quizlet, Photomath, etc.)
 
-> **Note:** AI credits are consumed per action (generating a screen costs more than a content placeholder). Template credits are used for pre-built layouts. The Starter plan includes watermarked exports and no Figma/code export.
+## ❓ FAQ
 
----
+**Is it actually undetectable?**  
+Yes. Visnly uses native system-level rendering ignored by screen capture software.
 
-## Getting Started
+**Can I use it on a single screen?**  
+Absolutely — it's designed for single-screen use.
 
-1. **Sign up for free** at [visily.ai](https://www.visily.ai)
-2. **Choose your starting point:**
-   - Start from a text prompt
-   - Upload a screenshot or sketch
-   - Pick a template from the library
-   - Begin with a blank canvas
-3. **Generate your design** using Visily's AI
-4. **Iterate and refine** with the drag-and-drop editor and Smart Design Assistant
-5. **Connect screens** in Prototype mode to build clickable flows
-6. **Share** your board with teammates or stakeholders for feedback
-7. **Export** to Figma or generate code for developer handoff *(Pro+)*
+**Does it work with PDFs and math?**  
+Yes. Brilliant mode excels at complex math, graphs, and multi-step problems.
 
----
+**Free trial?**  
+Every new account gets 5 free uses — no credit card required.
 
-## Use Cases
+## Legal & Support
+- [Contribute]([[https://visnly.com/privacy](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ))
+- Contact: support@visnly.com
 
-- 🚀 **Startup MVPs** — Rapidly prototype your app idea before writing a single line of code
-- 🏢 **Internal Tools** — Design dashboards and admin panels for B2B or internal software
-- 🔄 **Redesigns** — Upload screenshots of existing apps and iterate on improved layouts
-- 📋 **Product Specs** — Create high-fidelity mockups to communicate ideas clearly to designers and developers
-- 🎓 **Education** — Students and educators use Visily to learn UI/UX concepts without a steep learning curve
-- 🤝 **Cross-Functional Collaboration** — Product managers, developers, and marketers can all contribute to the design process
-
----
-
-## Comparison
-
-| Factor | Visily (AI-Powered) | Traditional Tools (e.g., Figma) |
-|--------|---------------------|--------------------------------|
-| **Learning Curve** | Minimal — usable immediately by non-designers | Significant — requires training and practice |
-| **Speed to Prototype** | Minutes | Hours to days |
-| **AI Generation** | Core capability (text, screenshot, sketch, diagram) | Limited or bolted-on |
-| **Fidelity** | Lo-fi & hi-fi on the same board with a toggle | Typically one fidelity per file |
-| **Best For** | Early-stage ideation, rapid prototyping, non-designers | Final production design, pixel-perfect output |
-
-> **Pro tip:** The smartest workflow uses both. Start with Visily for speed and accessibility, then export to Figma for final polish and design system management.
+## Connect With Us
+- TikTok | Instagram | YouTube
 
 ---
 
-## Reviews & Ratings
+**© Visnly AI 2026. All Rights Reserved.**
 
-- ⭐ **4.8 / 5** on Capterra
-- ⭐ **4.2 / 5** on G2
-
-> *"Grab a screenshot of a competitor's app, convert it into a clean wireframe in Visily, iterate with the product manager, share the link, gather feedback. You can get from screenshot to shared design faster than a meeting agenda gets written."* — Capterra Reviewer
-
-> *"Visily is a capable design tool with a low entry barrier. The screenshot-to-design feature is good, the template library saves time, and for non-designers who need to produce wireframes fast, it does the job."* — Flowstep Review
-
----
-
-## Trusted By
-
-Teams at **Amazon, LinkedIn, Microsoft, Walmart, Infosys, Udemy, Accenture, Niantic, and Verizon** use Visily to accelerate their design workflows.
-
----
-
-## License
-
-Visily is a proprietary SaaS product. This README is for informational purposes. If you would like to read or contribute to the app feel free to check it out at: https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ
-
----
-
-<p align="center">
-  <a href="[https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)">🚀 Get Started for Free</a>
-</p>
+*Used by thousands of students to study smarter and safer.*
