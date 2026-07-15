@@ -101,11 +101,6 @@ Yes. Brilliant mode excels at complex math, graphs, and multi-step problems.
 - [Contribute](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)
 - Contact: support@visnly.com
 
-## Connect With Us
-- TikTok | Instagram | YouTube
-
 ---
-
-**© Visnly AI 2026. All Rights Reserved.**
 
 *Used by thousands of students to study smarter and safer.*
