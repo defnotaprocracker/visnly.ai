@@ -79,10 +79,10 @@ AI achieved top scores on official tests:
 [Explore Pricing](https://visnly.com/pricing)
 
 ## 📚 Resources
-- [Proctoring Guides][([https://visnly.com/guides](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Honorlock, Proctorio, etc.)
-- [AI Study Helpers]([[https://visnly.com/solutions](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ))
-- [Subject-Specific Tutors]([[https://visnly.com/solutions](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Calculus, Organic Chem, Nursing, etc.)
-- [Alternatives]([[https://visnly.com/alternatives](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Chegg, Quizlet, Photomath, etc.)
+- [Proctoring Guides][([https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Honorlock, Proctorio, etc.)
+- [AI Study Helpers]([https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ))
+- [Subject-Specific Tutors]([https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Calculus, Organic Chem, Nursing, etc.)
+- [Alternatives]([https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Chegg, Quizlet, Photomath, etc.)
 
 ## ❓ FAQ
 
@@ -95,11 +95,8 @@ Absolutely — it's designed for single-screen use.
 **Does it work with PDFs and math?**  
 Yes. Brilliant mode excels at complex math, graphs, and multi-step problems.
 
-**Free trial?**  
-Every new account gets 5 free uses — no credit card required.
-
 ## Legal & Support
-- [Contribute]([[https://visnly.com/privacy](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ))
+- [Contribute]([https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ))
 - Contact: support@visnly.com
 
 ## Connect With Us
