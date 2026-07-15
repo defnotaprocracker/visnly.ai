@@ -29,6 +29,7 @@ Visnly provides **real-time answers**, **study guides**, and **transcription** t
 - Supports mic, system audio, or both.
 
 ## 🛡️ Stealth Technology
+
 **99% Undetectable** — Tested against major proctoring systems.
 
 **Works with:**
@@ -45,6 +46,7 @@ Visnly provides **real-time answers**, **study guides**, and **transcription** t
 **Not affiliated with or endorsed by any testing or proctoring provider.**
 
 ## 🎯 Proven Results
+
 AI achieved top scores on official tests:
 - **1580 SAT**
 - **34 ACT**
@@ -69,8 +71,8 @@ AI achieved top scores on official tests:
 
 ## 🚀 Getting Started
 
-1. Download Visnly for your platform:
-   https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ
+1. Download Visnly for your platform:  
+   [Mega.nz Folder](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)
 
 ## 💰 Pricing
 - **No subscriptions** — EVER.
@@ -79,10 +81,10 @@ AI achieved top scores on official tests:
 [Explore Pricing](https://visnly.com/pricing)
 
 ## 📚 Resources
-- [Proctoring Guides][([https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Honorlock, Proctorio, etc.)
-- [AI Study Helpers]([https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ))
-- [Subject-Specific Tutors]([https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Calculus, Organic Chem, Nursing, etc.)
-- [Alternatives]([https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Chegg, Quizlet, Photomath, etc.)
+- [Proctoring Guides](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ) (Honorlock, Proctorio, etc.)
+- [AI Study Helpers](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)
+- [Subject-Specific Tutors](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ) (Calculus, Organic Chem, Nursing, etc.)
+- [Alternatives](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ) (Chegg, Quizlet, Photomath, etc.)
 
 ## ❓ FAQ
 
@@ -96,7 +98,7 @@ Absolutely — it's designed for single-screen use.
 Yes. Brilliant mode excels at complex math, graphs, and multi-step problems.
 
 ## Legal & Support
-- [Contribute]([https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ))
+- [Contribute](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)
 - Contact: support@visnly.com
 
 ## Connect With Us
