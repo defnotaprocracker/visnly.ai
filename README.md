@@ -153,5 +153,5 @@ Visily is a proprietary SaaS product. This README is for informational purposes.
 ---
 
 <p align="center">
-  <a href="(https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)">🚀 Get Started for Free</a>
+  <a href="[https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)">🚀 Get Started for Free</a>
 </p>
