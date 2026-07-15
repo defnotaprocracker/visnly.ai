@@ -72,25 +72,17 @@ AI achieved top scores on official tests:
 1. Download Visnly for your platform:
    https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ
 
-2. Create a free account and get **5 free uses** instantly (no card needed).
-
-3. Launch the app and position the overlay.
-
-4. Use hotkeys for instant analysis or switch to Stealth Mode.
-
 ## 💰 Pricing
-- **No subscriptions** — Pay-per-use model.
+- **No subscriptions** — EVER.
 - Usage packs that **never expire**.
-- Smart mode: 0.5 uses
-- Brilliant mode: 1 use
 
 [Explore Pricing](https://visnly.com/pricing)
 
 ## 📚 Resources
-- [Proctoring Guides][(https://visnly.com/guides](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Honorlock, Proctorio, etc.)
-- [AI Study Helpers]([https://visnly.com/solutions](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ))
-- [Subject-Specific Tutors]([https://visnly.com/solutions](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Calculus, Organic Chem, Nursing, etc.)
-- [Alternatives]([https://visnly.com/alternatives](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Chegg, Quizlet, Photomath, etc.)
+- [Proctoring Guides][([https://visnly.com/guides](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Honorlock, Proctorio, etc.)
+- [AI Study Helpers]([[https://visnly.com/solutions](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ))
+- [Subject-Specific Tutors]([[https://visnly.com/solutions](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Calculus, Organic Chem, Nursing, etc.)
+- [Alternatives]([[https://visnly.com/alternatives](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)](https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ)) (Chegg, Quizlet, Photomath, etc.)
 
 ## ❓ FAQ
 
