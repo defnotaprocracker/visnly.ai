@@ -148,7 +148,7 @@ Teams at **Amazon, LinkedIn, Microsoft, Walmart, Infosys, Udemy, Accenture, Nian
 
 ## License
 
-Visily is a proprietary SaaS product. This README is for informational purposes. For full terms of service, privacy policy, and licensing details, please visit [visily.ai](https://www.visily.ai).
+Visily is a proprietary SaaS product. This README is for informational purposes. If you would like to read or contribute to the app feel free to check it out at: https://mega.nz/folder/fkxhGJra#Uq_sUPt8wlPxffcuUi4XaQ
 
 ---
 
